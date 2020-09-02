@@ -9,6 +9,7 @@
 <body>
 	<h1>GitHub Test</h1>
 	<button onclick="location.href='test'">눌러보세요</button>
+	<button onclick="location.href='test2'">menu1</button>
 	<button onclick="location.href='test3'">Menu2</button>
 </body>
 </html>
